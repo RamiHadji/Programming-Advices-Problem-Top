@@ -1,0 +1,4 @@
+﻿  Problems19.cpp
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems19\Problems19\Problems19.cpp(20,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems19\Problems19\Problems19.cpp(22,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problems19.vcxproj -> C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems19\x64\Debug\Problems19.exe
