@@ -1,0 +1,7 @@
+﻿  Problems34.cpp
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems34\Problems34\Problems34.cpp(18,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems34\Problems34\Problems34.cpp(20,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems34\Problems34\Problems34.cpp(22,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems34\Problems34\Problems34.cpp(24,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems34\Problems34\Problems34.cpp(35,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Problems34.vcxproj -> C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems34\x64\Debug\Problems34.exe
