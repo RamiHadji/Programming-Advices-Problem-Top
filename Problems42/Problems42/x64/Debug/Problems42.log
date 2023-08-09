@@ -1,0 +1,3 @@
+﻿  Problems42.cpp
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems42\Problems42\Problems42.cpp(22,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Problems42.vcxproj -> C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems42\x64\Debug\Problems42.exe

@@ -1,0 +1,6 @@
+﻿  Problems43.cpp
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems43\Problems43\Problems43.cpp(20,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems43\Problems43\Problems43.cpp(30,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems43\Problems43\Problems43.cpp(32,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems43\Problems43\Problems43.cpp(34,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Problems43.vcxproj -> C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems43\x64\Debug\Problems43.exe
