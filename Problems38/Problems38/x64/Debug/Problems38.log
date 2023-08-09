@@ -1,0 +1,4 @@
+﻿  Problems38.cpp
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems38\Problems38\Problems38.cpp(25,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems38\Problems38\Problems38.cpp(47,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Problems38.vcxproj -> C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems38\x64\Debug\Problems38.exe

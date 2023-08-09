@@ -1,0 +1,4 @@
+﻿  Problems37.cpp
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems37\Problems37\Problems37.cpp(21,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems37\Problems37\Problems37.cpp(30,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Problems37.vcxproj -> C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems37\x64\Debug\Problems37.exe

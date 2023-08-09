@@ -1,0 +1,4 @@
+﻿  Problems40.cpp
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems40\Problems40\Problems40.cpp(24,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems40\Problems40\Problems40.cpp(25,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Problems40.vcxproj -> C:\Users\vim\Desktop\Programming-Advices-Problem#\Problems40\x64\Debug\Problems40.exe
